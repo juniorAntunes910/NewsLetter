@@ -1,5 +1,5 @@
 const { gerarNewsLetter } = require("../services/aiService");
-const { sendEmail } = require("../services/resendService");
+const { sendEmail } = require("../services/nodeMailerService");
 
 
 
